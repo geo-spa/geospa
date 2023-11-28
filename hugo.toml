@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://geo-spa.github.io/geospa/'
 languageCode = 'en-us'
 title = 'GeoSPA'
 theme = "tailbliss"
