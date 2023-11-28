@@ -1,4 +1,4 @@
 baseURL = 'https://geo-spa.github.io/geospa/'
 languageCode = 'en-us'
 title = 'GeoSPA'
-theme = "academic"
+theme = "tailbliss"
